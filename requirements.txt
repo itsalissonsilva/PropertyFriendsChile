@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+joblib
+category_encoders
+python-dotenv
+sqlalchemy
+psycopg2-binary
